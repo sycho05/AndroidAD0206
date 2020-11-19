@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Read Data App</string>
+    <string name="name">Nama</string>
+    <string name="address">Alamat</string>
+    <string name="description">Deskripsi</string>
+    <string name="card_view">Card View</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
